@@ -1,0 +1,33 @@
+body{
+    background-color: darkgray;
+}
+footer{
+    font-size: 20px;
+}
+
+.section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center; 
+
+}
+.article1{
+    background-color: bisque;
+    
+}
+ p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.kurugida{
+    text-align: left;
+    list-style: lower-alpha;
+}
+.article2{
+    background-color: turquoise;
+}
+.article3{
+    background-color: cornflowerblue;
+}
+    
